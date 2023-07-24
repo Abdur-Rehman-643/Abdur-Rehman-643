@@ -6,6 +6,11 @@
 - 🌐 Crafting captivating web experiences with HTML, CSS, and JavaScript 🎨💻
 - 🧠 Building intelligent AI solutions to shape the future 🤖🌟
 - 📊 Analyzing data to unlock hidden insights and drive meaningful decisions 📈🔍
+- 🔧 Implementing dynamic functionality using JavaScript, jQuery, and Express 🔧📈🌟
+- 💻 Developing server-side applications with Node.js and MongoDB 💻🌐📈
+- 🌟 Experience with React.js for creating powerful front-end interfaces 🌟💻🔧
+- 📊 Proficient in SQL for efficient data management and querying 📊🔍
+- 🔗 Version control and collaboration with Git 🔗👥
 - 💼 Let's connect and collaborate on exciting projects! 🤝🔗
 - 🎓 Constantly learning and growing to stay ahead in the tech world 📚🌱
 - 🏆 Check out my repositories below and don't forget to ⭐️ your favorites! 🌟
