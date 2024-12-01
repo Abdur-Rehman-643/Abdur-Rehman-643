@@ -1,31 +1,39 @@
-<h1 align="center"><strong>Hi 👋, I'm ABDUR REHMAN</strong></h1>
-<h3 align="center"><strong>🚀 Welcome to my GitHub! 🚀</strong></h3>
-<br/>
-<p>👨‍💻 I am a Full-Stack Web Developer, Data Scientist, and AI Enthusiast. My passion lies in exploring the depths of Data Science and Machine Learning to craft intelligent AI solutions that shape the future. 📊🤖</p>
+# 👋 Hi, I'm Abdur Rehman!
 
-<p>🌐 When it comes to crafting captivating web experiences, I leverage my expertise in HTML, CSS, and JavaScript to create visually appealing interfaces that captivate users. 🎨💻</p>
+## 🚀 Welcome to my GitHub!
 
-<p>🧠 With a keen interest in data analysis, I unlock hidden insights and drive meaningful decisions by analyzing data using powerful tools like Numpy, Pandas, Matplotlib, and Seaborn. 📊🔍📈</p>
+👨‍💻 I'm a Full-Stack Web Developer, Data Scientist, and AI Enthusiast. I love exploring Data Science and Machine Learning to build smart solutions for the future. 🤖
 
-<p>🔧 I implement dynamic functionality and enhance user experiences using JavaScript, jQuery, and Express, ensuring seamless interactions with the data-driven features. 📈🌟</p>
+---
 
-<p>💻 My proficiency in server-side development with Node.js and MongoDB allows me to build robust and scalable applications that deliver outstanding performance. 💻🌐📈</p>
+### 🚀 Skills & Interests:
+- **Web Development:**  
+  HTML, CSS, JavaScript, and React.js for creating engaging interfaces. 🎨💻  
 
-<p>🌟 I have hands-on experience with React.js, a powerful framework, which empowers me to create impressive front-end interfaces that leave a lasting impact. 💻🔧🌟</p>
+- **Data Science:**  
+  Numpy, Pandas, Matplotlib, and Seaborn for data analysis and visualization. 📊🔍  
 
-<p>📊 Proficient in SQL, I efficiently manage and query data, optimizing data operations for improved efficiency and performance. 🔍</p>
+- **Backend Development:**  
+  Node.js, Express, and MongoDB for building robust, scalable apps. 💻🌐  
 
-<p>🔗 I am well-versed in version control and collaboration with Git, enabling seamless teamwork on projects, while also ensuring code integrity. 👥🔗</p>
+- **SQL:**  
+  Managing and querying databases efficiently. 📋  
 
-<p>💼 I am always eager to connect and collaborate on exciting projects! Let's join forces and create something amazing together. 🤝🌟</p>
+- **Version Control:**  
+  Experienced with Git for seamless teamwork and code integrity. 🔗  
 
-<p>🎓 As a perpetual learner, I strive to stay ahead in the tech world by constantly exploring new technologies and refining my skills. 📚🌱</p>
+---
 
-<p>🏆 Feel free to explore my repositories below and don't forget to ⭐️ your favorites! Your appreciation motivates me to keep pushing the boundaries. 🌟</p>
+### 📫 Let's Connect!
+- **Email:** [rehmanabdur643@gmail.com](mailto:rehmanabdur643@gmail.com)  
+- 🤝 Open to collaborations and exciting projects!
 
-<p>📫 If you want to get in touch, feel free to reach out to me at <a href="mailto:rehmanabdur643@gmail.com">rehmanabdur643@gmail.com</a>. I am always open to new opportunities and interesting discussions. 📧</p>
+---
 
-<p>Happy coding! 😄🚀</p>
+Feel free to explore my repositories and ⭐ your favorites — your support keeps me going!  
+
+Happy coding! 😄🚀
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rehman-643&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rehman-643" /> </p>
 
